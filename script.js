@@ -3,6 +3,7 @@ var gd = document.getElementById("gd");
 var p = document.getElementById("p");
 var data = [];
 
+
 function grade() {
   let uid = document.getElementById("uid").value;
   let upass = document.getElementById("upass").value;
